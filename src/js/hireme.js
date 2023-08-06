@@ -19,7 +19,7 @@ function HireMe() {
                                 className="text-center fa fa-location-arrow"></i></a>
                     </div>
                     <div className="col-12 text-center text-md-left text-lg-left my-4 my-md-5 my-lg-5 col-md-6 col-lg-6"><a
-                            href="tel:+237690079333">Contact Me <i className="text-center fa fa-location-arrow"></i></a>
+                            href="tel:+1 90000000000">Contact Me <i className="text-center fa fa-location-arrow"></i></a>
                     </div>
                 </div>
             </div>
